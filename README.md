@@ -4,7 +4,7 @@ Projects created during codsoft internship.
 It's a website that has been designed to mimic the design of simple landing page.
 <br>
 <br>
-## 📌 **Live Site URL:** <a href="https://admirable-figolla-72380c.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://nikhil-landing-page.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
